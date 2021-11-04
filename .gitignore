@@ -1,6 +1,6 @@
 # my stuff
-package-lock.json
-db.sqlite
+/package-lock.json
+/db.sqlite
 
 # compiled output
 /dist
